@@ -33,7 +33,7 @@ If you have your own Azure subsctiption start [here](link)
 If you do not have own Azure subscription start [here](link)
 
 ## Video record
-Re-watch YouTube stream [here](link)
+Re-watch YouTube stream [here](https://youtu.be/IuG7GmXmffQ)
 
 ## Credits
 This workshop was set up by @pyladiesams and Global AI Community
