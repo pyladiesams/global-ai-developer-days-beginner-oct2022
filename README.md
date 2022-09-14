@@ -2,7 +2,7 @@
 # Global AI Developer Days 2022
 ### Level: Beginner
 
-## Workshop description
+## Workshops description
 
 ### Workshop 1: TBA
 TBA 
