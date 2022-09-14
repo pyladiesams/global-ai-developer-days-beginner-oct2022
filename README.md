@@ -5,18 +5,21 @@
 
 ### Workshop 1: TBA
 Level:
+
 TBA 
 
 [Go to the workshop](link)
 
 ### Workshop 2: TBA
 Level:
+
 TBA
 
 [Go to the workshop](link)
 
 ### Workshop 3: TBA
 Level:
+
 TBA
 
 [Go to the workshop](link)
