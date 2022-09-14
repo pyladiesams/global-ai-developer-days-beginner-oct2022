@@ -1,21 +1,34 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
-### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
+# Global AI Developer Days 2022
+### Level: Beginner
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+
+### Workshop 1: TBA
+TBA 
+
+[Go to the workshop](link)
+
+### Workshop 2: TBA
+TBA
+
+[Go to the workshop](link)
+
+### Workshop 3: TBA
+TBA
+
+[Go to the workshop](link)
 
 ## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
+Visual Studio Code
 
 ## Usage
-* Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+If you have your own Azure subsctiption start [here](link)
+
+If you do not have own Azure subscription start [here](link)
 
 ## Video record
 Re-watch YouTube stream [here](link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This workshop was set up by @pyladiesams and Global AI Community
