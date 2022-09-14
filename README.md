@@ -3,14 +3,14 @@
 
 ## Workshops description
 
-### Workshop 1: TBA
+### Workshop 1: PyTorch and Azure Machine Learning
 Level:
 
 TBA 
 
 [Go to the workshop](link)
 
-### Workshop 2: TBA
+### Workshop 2: Patient registration made easy with AI services
 Level:
 
 TBA
