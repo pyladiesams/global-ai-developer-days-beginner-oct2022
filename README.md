@@ -3,34 +3,39 @@
 
 ## Workshops description
 
-### Workshop 1: PyTorch and Azure Machine Learning
-Level:
+### Workshop 1: Patient registration made easy with AI services
 
-TBA 
+Level: Intermediate
 
-[Go to the workshop](link)
+Most of the forms we complete nowadays are online but there are still times when we need to complete paper based forms. There are plenty of examples, for this workshop, we've chosen a patient registration for a doctor's surgery as it's something we've all had to do at some point.
 
-### Workshop 2: Patient registration made easy with AI services
-Level:
+[Go to the workshop](https://aka.ms/gaidd/workshop/formrecognizer)
 
-TBA
+### Workshop 2: Develop Custom Object Detection Models with NVIDIA and Azure Machine Learning
 
-[Go to the workshop](link)
+Level: Intermediate
 
-### Workshop 3: TBA
-Level:
+Azure Machine Learning studio is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure. Learn how to develop custom object detection models using this service with NVIDIA GPU accelerated virtual machines.
 
-TBA
+[Go to the workshop](https://aka.ms/gaidd/workshop/nvidia)
 
-[Go to the workshop](link)
+### Workshop 3: PyTorch and Azure Machine Learning
+
+Level: Intermediate
+
+In this workshop you are going to build and deploy your own trained vision model to a highly scalable endpoint using Azure Machine Learning. You start with setting up your cloud workspace and learn how to manage your data and make it reusable. Next you will train a PyTorch model using the transfer learning approach and finally you deploy the model wrapped in an API in a managed endpoint.
+
+During the workshop you learn the basics of PyTorch and at the end of this workshop you have gone through the complete life-cycle of a model, from data to deployment using the Azure Machine Learning platform.
+
+[Go to the workshop](https://aka.ms/gaidd/workshop/pytorch)
 
 ## Requirements
 Visual Studio Code and Azure subscriptions
 
 ## Usage
-If you have your own Azure subsctiption start [here](link)
+If you have your own Azure subsctiption, choose one of the workshops and follow the link to the chosen workshop.
 
-If you do not have own Azure subscription start [here](link)
+If you do not have own Azure subscription, TBA
 
 ## Video record
 Re-watch YouTube stream [here](https://youtu.be/IuG7GmXmffQ)
