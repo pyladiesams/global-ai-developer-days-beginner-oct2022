@@ -27,7 +27,7 @@ In this workshop you are going to build and deploy your own trained vision model
 
 During the workshop you learn the basics of PyTorch and at the end of this workshop you have gone through the complete life-cycle of a model, from data to deployment using the Azure Machine Learning platform.
 
-[Go to the workshop](https://aka.ms/gaidd/workshop/pytorch)
+[Go to the workshop](https://github.com/microsoft/workshop-aml-pytorch/tree/main/labs)
 
 ## Requirements
 Visual Studio Code and Azure subscriptions
@@ -35,7 +35,13 @@ Visual Studio Code and Azure subscriptions
 ## Usage
 If you have your own Azure subsctiption, choose one of the workshops and follow the link to the chosen workshop.
 
-If you do not have own Azure subscription, TBA
+If you do not have own Azure subscription follow these steps:
+- Navigate to: http://globalai.community/checkin
+- Enter your name and email
+- Watch your mailbox for the confirmation email
+- Click the activation link in the email
+- Enter the event code (will be provided during the event)
+- Your azure pass will arrive shortly in your email.
 
 ## Video record
 Re-watch YouTube stream [here](https://youtu.be/IuG7GmXmffQ)
